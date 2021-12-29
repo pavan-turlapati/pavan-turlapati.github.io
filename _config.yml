@@ -1,24 +1,24 @@
-repository: vinayak19th/vinayak19th.github.io/
+repository: theskrill/theskrill.github.io
 # Personal info
-name: Vinayak Sharma
-title: Product Engineer, Myelin Foundry
+name: Pavan Kumar
+title: Student @ Stevens Institute of Technology
 specialization : Machine Learning
-email: vinayak1998th@Gmail.com
+email: vturlapa@stevens.edu
 
-phone: "+91 9748939032"
-website: vinayak19th.github.io
+phone: "+1 2019201236"
+website: theskrill.github.io
 
 darkmode: false
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  vinayak19th
+github_username:  theskrill
 stackoverflow_username: 8700517/vinayak-sharma
 #facebook_username: vinayak19th
-instagram_username: stochastic_individual
-linkedin_username: vinayaksha
+instagram_username: the_skrill
+linkedin_username: pavan-turlapati
 #use international format
-whatsapp_number: "919994756433"
+whatsapp_number: "12019201236"
 medium: vinayak1998th
 
 #Comment out to disable github stats
