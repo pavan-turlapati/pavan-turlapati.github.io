@@ -12,14 +12,14 @@ darkmode: false
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  vinayak19th
-stackoverflow_username: 8700517/vinayak-sharma
+github_username:  TheSkrill
+#stackoverflow_username: 8700517/vinayak-sharma
 #facebook_username: vinayak19th
-instagram_username: stochastic_individual
-linkedin_username: vinayaksha
+instagram_username: the.skrill
+linkedin_username: pavan-turlapati
 #use international format
-whatsapp_number: "919994756433"
-medium: vinayak1998th
+whatsapp_number: "12019201236"
+#medium: vinayak1998th
 
 #Comment out to disable github stats
 githubstats: True
@@ -44,8 +44,12 @@ githubstats: True
 favicon: images/fav.ico
 about_profile_image: images/picture.jpg
 about_content: | # this will include new lines to allow paragraphs
-  A Product Engineer [@Myelin Foundry](https://www.myelinfoundry.com/) specializing in <mark>Deep Learning</mark>.
-  I've worked extensively to develop solutions to problems in the field of Vision, Natural Language and Industrial Automation.
+  Hello there!
+  
+  Thanks for stopping by!
+  
+  I'm a Master's student at Stevens Insitute of Technology specalizing in <mark>Machine Learning</mark>.
+  I've worked extensively to develop solutions to problems in the field of adversarial and theoretical machine learning.
 
   <b>I'm currently working on</b>: Industrial Automation using Deep Learning Networks
 
