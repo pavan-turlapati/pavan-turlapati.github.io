@@ -1,9 +1,12 @@
+
 repository: theskrill/theskrill.github.io/
+
 # Personal info
 name: Pavan Kumar
 title: Student @ Stevens Institute of Technology
 specialization : Machine Learning
-email: pk1842000@Gmail.com
+
+email: vturlapa@stevens.edu
 
 phone: "+1 2019201236"
 website: theskrill.github.io
@@ -12,7 +15,8 @@ darkmode: false
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  TheSkrill
+
+github_username:  theskrill
 #stackoverflow_username: 8700517/vinayak-sharma
 #facebook_username: vinayak19th
 instagram_username: the.skrill
@@ -20,6 +24,7 @@ linkedin_username: pavan-turlapati
 #use international format
 whatsapp_number: "12019201236"
 #medium: vinayak1998th
+
 
 #Comment out to disable github stats
 githubstats: True
