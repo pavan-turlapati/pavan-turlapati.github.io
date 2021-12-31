@@ -46,8 +46,8 @@ githubstats: True
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-favicon: images/fav.ico
-about_profile_image: images/picture.jpg
+favicon: images/webistedp.ico
+about_profile_image: images/websitedp.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello there!
   
