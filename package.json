@@ -1,6 +1,6 @@
 {
-    "name": "vinayak19th.github.io",
-    "version": "3.0.0",
+    "name": "theskrill.github.io",
+    "version": "1.0.0",
     "description": "<u>Website for my Resume.</u>",
     "main": "index.js",
     "directories": {
@@ -11,14 +11,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/vinayak19th/vinayak19th.github.io.git"
+        "url": "git+https://github.com/theskrill/theskrill.github.io.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/vinayak19th/vinayak19th.github.io/issues"
+        "url": "https://github.com/theskrill/theskrill.github.io/issues"
     },
-    "homepage": "https://github.com/vinayak19th/vinayak19th.github.io#readme",
+    "homepage": "https://github.com/theskrill/theskrill.github.io#readme",
     "dependencies": {
         "bootstrap": "^4.4.1",
         "jquery": "^3.5.0",
