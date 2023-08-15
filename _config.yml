@@ -16,7 +16,7 @@ darkmode: false
 # Social links
 #twitter_username: jekyllrb
 
-github_username:  theskrill
+github_username:  pavan-turlapati
 #stackoverflow_username: 8700517/vinayak-sharma
 #facebook_username: vinayak19th
 instagram_username: the.skrill
@@ -53,8 +53,8 @@ about_content: | # this will include new lines to allow paragraphs
   
   Thanks for stopping by!
   
-  I'm a Master's student at Stevens Insitute of Technology specalizing in <mark>Machine Learning</mark>.
-  I've worked extensively to develop solutions to problems in the field of adversarial and theoretical machine learning.
+  I've recently graduated from Stevens Insitute of Technology with a major in <mark>Machine Learning</mark>.
+  I've worked extensively to develop solutions to problems in the field of Natural Language Processing and theoretical machine learning.
 
   <b>I'm currently working on</b>: Industrial Automation using Deep Learning Networks
 
@@ -67,7 +67,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   - <mark>Dev Ops</mark> : <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   
-  Feel free to reach out on my [LinkedIn](https://www.linkedin.com/in/vinayaksha/) anytime. Always ready to talk <b>Tech</b> or <b>Anime</b>.
+  Feel free to reach out on my [LinkedIn](https://www.linkedin.com/in/pavan-turlapati/) anytime. Always ready to talk about <b>Tech</b> and <b>Music</b>.
 
 
 # Projects Section
