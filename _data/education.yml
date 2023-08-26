@@ -1,4 +1,19 @@
 # Education Template
+
+- layout: layout/left-edu
+  name: Stevens Institute of Technology
+  link: https://www.stevens.edu/
+  dates: 2021 - 2023
+  qualification: Master of Science in Machine Learning
+  description: > # this will include new lines to allow paragraphs
+    Stevens Institute of Technology, located in Hoboken, New Jersey, is a prestigious research university known for its expertise in engineering, science, technology, and business education. 
+    With a history dating back to 1870, it fosters innovation and offers diverse undergraduate, graduate, and doctoral programs. Emphasizing experiential learning, it equips students to excel in evolving industries like AI, cybersecurity, and sustainable energy, all while benefiting from its prime location near New York City.
+    
+    - **Final Results** : 3.98 GPA
+    
+    - **City** : Hoboken, NJ
+
+  
 - layout: layout/left-edu
   name: SRM INSTITUTE OF SCIENCE AND TECHNOLOGY
   link: https://www.srmist.edu.in/
